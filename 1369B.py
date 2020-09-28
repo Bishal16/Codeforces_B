@@ -17,3 +17,5 @@ for t in range(int(input())):
                 print(a[i],end='')
         print()
     
+    
+    ;
